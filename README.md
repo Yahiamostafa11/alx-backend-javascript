@@ -1,6 +1,6 @@
 # My First Backend repo
 
-![Project Logo](https://www.google.com/imgres?q=back%20end%20developer%20png&imgurl=https%3A%2F%2Fwww.getsetgoweb.com%2Fassets%2Fimages%2Fbackend-devlopement%2Fback-end-development.png&imgrefurl=https%3A%2F%2Fwww.getsetgoweb.com%2Fservices%2Fback-end-development%2F&docid=EzNzBCsomQnTFM&tbnid=KU_lST0eEcvh0M&vet=12ahUKEwiqhK2K4d6HAxWy0AIHHRwyHZQQM3oECCEQAA..i&w=567&h=483&hcb=2&ved=2ahUKEwiqhK2K4d6HAxWy0AIHHRwyHZQQM3oECCEQAA)  
+![Project Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwQ6SW3MeoBwvUAdK3KN82NTB6y7Vw6_UoQ&s)  
 
 Welcome to my first backend project! This repository represents the beginning of my journey into backend development. The project includes a comprehensive setup using modern JavaScript features and tools.
 
