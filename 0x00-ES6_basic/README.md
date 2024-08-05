@@ -1,5 +1,5 @@
 # ECMAScript 6 Project
-![ES6 Logo](https://www.google.com/imgres?q=es6%20funny%20png%20image&imgurl=https%3A%2F%2Fqph.cf2.quoracdn.net%2Fmain-qimg-f9604fdde0fe7f6ce11eb992914918b4&imgrefurl=https%3A%2F%2Fwww.quora.com%2FWhat-is-the-difference-between-JavaScript-and-ES6&docid=pGE-NyxehcoywM&tbnid=VqPXzGA4_GYcMM&vet=12ahUKEwjc15iG4N6HAxWFzwIHHRQaHWQQM3oECHkQAA..i&w=602&h=322&hcb=2&ved=2ahUKEwjc15iG4N6HAxWFzwIHHRQaHWQQM3oECHkQAA)
+![ES6 Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOAyyXiTLtE6isjE9qjKK5KnlJIlErO4gV6ygLIVooPD5Pwy8kfR7ZLb-3aBnvmdTJHWM&usqp=CAU)
 ## Resources
 Read or watch:
 - [ECMAScript 6 - ECMAScript 2015](https://www.ecma-international.org/ecma-262/6.0/)
